@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio Individual Cinco</string>
+
+    <string name="sCounter_Initial_Value">0</string>
+    <string name="sBtn_Increment">+</string>
+    <string name="sBtn_Decrement">-</string>
+
+</resources>

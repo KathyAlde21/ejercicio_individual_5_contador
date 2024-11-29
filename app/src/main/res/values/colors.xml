@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    <color name="colorPrimary">#303F9F</color>-->
+<!--    <color name="colorDark">#212121</color>-->
+<!--    <color name="colorSecondary">#145975</color>-->
+
+    <!--    caracteristicas boton -->
+    <color name="buttonBackground">#1976D2</color>
+    <color name="buttonText">#FF000000</color>
+</resources>
